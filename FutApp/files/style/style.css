@@ -1,0 +1,11 @@
+
+
+
+
+
+
+#nav_list li {
+    display:inline;
+    float: right;
+    padding-right:50px;
+}
